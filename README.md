@@ -21,4 +21,5 @@ Bilgisayar Mühendisliği 3. sınıf öğrencisiyim ve **backend ve mobil geliş
 ---
 
 ## 📈 GitHub İstatistiklerim
-![Cem Onat Satır GitHub stats](https://github-readme-stats.vercel.app/api?username=shuakr&show_icons=true&theme=radical)
+![Cem Onat Satır GitHub stats](https://github-readme-stats.vercel.app/api?username=CemOnat00&show_icons=true&theme=radical)
+
