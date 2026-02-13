@@ -5,7 +5,7 @@ Bilgisayar Mühendisliği 3. sınıf öğrencisiyim ve **backend ve mobil geliş
 ---
 
 ## 🚀 Hakkımda 
-- 🎯 Hedefim, kurumsal firmalarda **backend developer** olarak kaliteli ve sürdürülebilir yazılım çözümleri üretmek.  
+- 🎯 Hedefim, kurumsal firmalarda **mobile developer** olarak kaliteli ve sürdürülebilir yazılım çözümleri üretmek.  
 - 📫 Bana ulaşmak için: [satircemonat@gmail.com](mailto:satircemonat@gmail.com)
 
 ---
