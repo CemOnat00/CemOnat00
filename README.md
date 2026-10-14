@@ -77,6 +77,3 @@
 
 ---
 
-<div align="center">
-  <i>"Bir uygulamayı yazmak işin yarısı; onu güvenilir şekilde çalıştırmak diğer yarısı."</i>
-</div>
