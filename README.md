@@ -2,14 +2,11 @@
 
 # Merhaba, ben Cem Onat Satır 👋
 
-<a href="https://github.com/CemOnat00">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Bilgisayar+M%C3%BChendisli%C4%9Fi+4.+S%C4%B1n%C4%B1f+%C3%96%C4%9Frencisi;Mobile+%26+Backend+Developer;DevOps+Yolculu%C4%9Funda+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+**Bilgisayar Mühendisliği 4. Sınıf Öğrencisi · Mobile & Backend Developer · DevOps**
 
 <p>
   <a href="mailto:satircemonat@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/cem-onat-satir"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=CemOnat00&style=for-the-badge&color=2F81F7&label=PROFIL+G%C3%96R%C3%9CNT%C3%9CLENME" />
 </p>
 
 </div>
